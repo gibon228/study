@@ -1,3 +1,5 @@
 <?php
-phpinfo();
+
+system("cat etc/passwd");
+
 ?>
